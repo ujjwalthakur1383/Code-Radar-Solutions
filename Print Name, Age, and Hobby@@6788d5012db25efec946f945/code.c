@@ -2,7 +2,7 @@
 
 int main() {
     char a[100];
-    scanf("%s %s %s ",&a ,&b ,&c);
+    scanf("%s ",&a );
     printf("Name: %s",a);
     return 0;
 }
