@@ -2,6 +2,6 @@
 int main() {
     float a;
     sacnf("%f",&a);
-    printf("You entered: %.4f",a);
+    printf("You entered: %.6f",a);
     return 0;
 }
