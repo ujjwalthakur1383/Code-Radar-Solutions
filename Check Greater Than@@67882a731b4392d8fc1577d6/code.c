@@ -5,7 +5,5 @@ int main() {
     if (a>b) {
         printf("%d",true);
     }
-
-    printf("%d" , a > b);
     return 0;
 }
