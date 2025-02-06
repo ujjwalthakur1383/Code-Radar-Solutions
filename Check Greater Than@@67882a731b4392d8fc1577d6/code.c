@@ -5,7 +5,7 @@ int main() {
     if (a > b) {
         printf("True");
     }
-    while{
+    else{
         printf("False");
     }
     return 0;
