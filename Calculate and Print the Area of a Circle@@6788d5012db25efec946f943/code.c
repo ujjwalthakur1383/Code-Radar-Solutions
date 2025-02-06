@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
     float a;
-    sacnf("%f",&a);
+    scanf("%f",&a);
 
     printf("Area: %.2f",3.14*(a*a));
     return 0;
