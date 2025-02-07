@@ -6,7 +6,7 @@ int main() {
         printf("A");
     }
     else if (a>=80){
-        printf("B")
+        printf("B");
     }
     return 0;
 }
