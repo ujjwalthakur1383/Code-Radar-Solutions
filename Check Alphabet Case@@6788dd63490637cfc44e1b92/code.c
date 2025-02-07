@@ -8,6 +8,6 @@ int main() {
     else if(a>=97 && a<=122){
         printf("Lowercase");
     }
-    else("Not an alphabet")
+    else("Not an alphabet");
     return 0;
 }
