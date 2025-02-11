@@ -7,7 +7,7 @@ int main(){
         printf("Vowel");
     }
     else if(b>0){
-        printf("Digit")
+        printf("Digit");
 
     }
     else{
