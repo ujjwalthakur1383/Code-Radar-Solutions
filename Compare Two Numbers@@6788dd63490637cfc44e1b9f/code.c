@@ -5,5 +5,8 @@ int main (){
     if (a==b){
         printf("Equal");
     }
+    else{
+        printf("not equal");
+    }
     return 0;
 }
