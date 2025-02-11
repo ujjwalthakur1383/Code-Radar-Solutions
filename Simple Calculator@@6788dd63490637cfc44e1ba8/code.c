@@ -19,8 +19,8 @@ int main(){
     }
     else if(c == '/'){
         if(b != 0) {
-            double Quotient = (double)a / b; // Make sure the division is done in double
-            printf("%1f", Quotient); 
+            double Quotient = a / b; // Make sure the division is done in double
+            printf("%f", Quotient); 
         }
         else {
             printf("error");
