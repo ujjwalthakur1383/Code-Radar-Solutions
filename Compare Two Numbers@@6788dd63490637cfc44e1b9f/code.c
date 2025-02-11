@@ -10,7 +10,7 @@ int main (){
 
     }
     else{
-        printf("Second")
+        printf("Second");
     }
     return 0;
 }
