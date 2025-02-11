@@ -20,7 +20,7 @@ int main(){
     else if(c == '/'){
         if(b != 0) {
             float Quotient = a / b; // Make sure the division is done in double
-            printf("%f", Quotient); 
+            printf("%1f", Quotient); 
         }
         else {
             printf("error");
