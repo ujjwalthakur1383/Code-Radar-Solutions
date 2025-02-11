@@ -16,7 +16,7 @@ int main(){
     }
     Quotient==a/b;
     else if (c=='/'){
-        printf("%d",a/b)
+        printf("%d",a/b,Quotient);
     }
 
     return 0;
