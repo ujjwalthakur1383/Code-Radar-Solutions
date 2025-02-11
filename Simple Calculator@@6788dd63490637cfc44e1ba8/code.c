@@ -23,7 +23,7 @@ int main(){
             printf("%f", Quotient); 
         }
         else {
-            printf("Error: Division by zero!");
+            printf("Error");
         }
     }
 
