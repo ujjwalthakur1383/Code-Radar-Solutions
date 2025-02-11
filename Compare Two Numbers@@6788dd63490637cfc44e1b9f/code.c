@@ -9,5 +9,8 @@ int main (){
         printf("First");
 
     }
+    else{
+        printf("Second")
+    }
     return 0;
 }
