@@ -14,7 +14,7 @@ int main(){
     else if (c=='*'){
         printf("%d",a*b);
     }
-    Quotient==a/b;
+    double Quotient==a/b;
     else if (c=='/'){
         printf("%d",a/b,Quotient);
     }
