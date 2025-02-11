@@ -6,7 +6,7 @@ int main() {
         printf("Eligible");
     }
     else{
-        print("Not Eligible")
+        print("Not Eligible");
     }
     return 0;
 }
