@@ -7,7 +7,7 @@ int main(){
             printf("*");
 
         }
-        printf("/n",*);
+        printf("%d /n");
     }
 
     return 0;
