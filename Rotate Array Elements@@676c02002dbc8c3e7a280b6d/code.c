@@ -3,7 +3,7 @@
 // using namespace std;
 int main()
 {
-    int arr[] = { 1, 3, 5, 7, 9, 11 };
+    int arr[] = { };
     int n = sizeof(arr) / sizeof(arr[0]);
     int k = 3; //No. of rotations
     k = k % n;
